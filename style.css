@@ -1,0 +1,9 @@
+.container{
+    margin-left: 0%;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+.div1{
+    margin-left: 10px;
+}
